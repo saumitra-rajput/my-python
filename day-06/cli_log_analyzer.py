@@ -1,3 +1,5 @@
+# To run the program python3 cli_log_analyzer.py --file ../day-04/app.log --out output.json
+
 import json
 # import pdb
 import argparse
